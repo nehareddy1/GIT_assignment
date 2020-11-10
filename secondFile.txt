@@ -1,4 +1,5 @@
 This is the initial contents
 UserB’s change should include adding text that includes “UserB”.
+UserA’s change should include adding text including “UserA”. cfb5e7d31fb7097f5d2a9fd4212f8071ce812e23
 of the second file that comprises
 our most excellent project.
