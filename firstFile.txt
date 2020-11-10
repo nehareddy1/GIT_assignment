@@ -1,5 +1,6 @@
 Matt is adding nifty new content!
 Neha added some new stuff to the file.
+Adding new lines to the file will have required values in it
 This is the initial contents
 of the first file that
 comprises the project.
